@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@alecdewitz**
-- 👀 I’m interested in **React Native mobile apps**
-- 🌱 I’m currently learning **Next.js**
-- 💞️ I’m looking to collaborate on **[cadre.io](https://cadre.io "cadre.io")**
-- 📫 How to reach me **alec@a8z.com**
+- 👀 I build **React Native mobile apps** and **websites**
+- 🌱 I’m currently learning about integrations with **OpenAI**
+- 💞️ Check out my website **[dewitz.co](https://dewitz.co "dewitz.co")**
+- 📫 How to reach me **info@dewitz.co**
