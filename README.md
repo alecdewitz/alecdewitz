@@ -1,5 +1,5 @@
-- 👋 Hi, I’m **@alecdewitz**
-- 👀 I build **React Native mobile apps** and **websites**
-- 🌱 I’m currently learning about integrations with **OpenAI**
+- 👋 Hey, I’m **@alecdewitz**
+- 👀 I build **AI tools**, **React Native mobile apps** and **Next.js websites**
+- 🎧 I’m currently dialing in
 - 💞️ Check out my website **[alecdewitz.com](https://alecdewitz.com "alecdewitz.com")**
 - 📫 You can reach me at **hello@alecdewitz.com**
